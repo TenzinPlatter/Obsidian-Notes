@@ -18,3 +18,4 @@ Software development types:
 - Requirements / Analysis / Specifications
 - Design
 - Testing / Verification / Validation
+- Maintenance

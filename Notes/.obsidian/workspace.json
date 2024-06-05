@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development.md",
+                "file": "Computational Data Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development.md",
+                "file": "Computational Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development.md",
+                "file": "Computational Data Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development.md"
+                "file": "Computational Data Science.md"
               }
             }
           }
@@ -147,8 +147,15 @@
   },
   "active": "cd81a88d383c66ad",
   "lastOpenFiles": [
-    "Systems and Problem-Solving.md",
+    "Cybersecurity.md~",
+    "Computational Data Science.md~",
+    "Cybersecurity.md",
     "Software Development.md",
+    "images/DataProcess.png",
+    "images/Screenshot 2024-06-06 at 9.17.12 AM.png",
+    "Screenshot 2024-06-06 at 9.17.12 AM.png",
+    "1717629313-CJOL.md",
+    "Systems and Problem-Solving.md",
     "Intellectual Property.md",
     "images/SoftwareDevCycle.png",
     "images/Screenshot 2024-06-05 at 8.52.11 PM.png",
@@ -177,7 +184,6 @@
     "Intellectual Property.md~",
     "images/ProtectSoftwareIdeas.png",
     "images",
-    "untitled folder",
     "ProtectSoftwareIdeas.png",
     "Screenshot 2024-06-05 at 6.44.42 PM.png",
     "Extreme_Programming.md",
@@ -185,9 +191,6 @@
     "templates/note template.md",
     "Make Files.md",
     "Intellectual Property and Ethics.md",
-    "Tools.md",
-    "Computing Domains.md",
-    "Professionalism and Teamwork.md",
-    "IP and Ethics.md"
+    "Tools.md"
   ]
 }

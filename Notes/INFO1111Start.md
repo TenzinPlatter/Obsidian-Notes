@@ -13,9 +13,9 @@ Topics:
 
 Computing Domains:
 - [[Computer Science]]
-- [[Computational Data Science]]
+- [[Computational Data Science]] TODO
 - [[Software Development]]
-- [[Cybersecurity]]
+- [[Cybersecurity]] TODO
 
 
 
