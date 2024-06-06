@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Data Science.md",
+                "file": "INFO1111Start.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Data Science.md",
+                "file": "INFO1111Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Data Science.md",
+                "file": "INFO1111Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Data Science.md"
+                "file": "INFO1111Start.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "cd81a88d383c66ad",
   "lastOpenFiles": [
+    "Computational Data Science.md",
     "Cybersecurity.md~",
     "Computational Data Science.md~",
     "Cybersecurity.md",
@@ -160,7 +161,6 @@
     "images/SoftwareDevCycle.png",
     "images/Screenshot 2024-06-05 at 8.52.11 PM.png",
     "Screenshot 2024-06-05 at 8.52.11 PM.png",
-    "Computational Data Science.md",
     "Computer Science.md~",
     "Computability.md",
     "P=NP.md~",
@@ -183,7 +183,6 @@
     "Ethics.md",
     "Intellectual Property.md~",
     "images/ProtectSoftwareIdeas.png",
-    "images",
     "ProtectSoftwareIdeas.png",
     "Screenshot 2024-06-05 at 6.44.42 PM.png",
     "Extreme_Programming.md",
