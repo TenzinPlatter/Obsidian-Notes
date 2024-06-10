@@ -9,9 +9,7 @@ Attacks:
 - Drive-by
     - A malicious script causes something to download onto your computer without explicit permission
 - SQL Injection
-    - Using SQL commands to manipulate a backend database and display information not intentended to
-      be displayed
-- Eavesdropping
+    - Using SQL commands to manipulate a backend database and display information not intended to be displayed Eavesdropping
     - An attack where hackers intercept, delete, or modify data being transmitted between devices
 - Password attacks
      - The various methods used to maliciously authenticate into password-protected accounts. (brute
@@ -30,7 +28,7 @@ What is the best way to foil a brute force attack?
 - Limit number of invalid password entries
 
 What is the difference between symmetric and asymmetric encryption?
-- Symmetric has one key to encrypt and decrypt, whereas assymmetric uses two keys
+- Symmetric has one key to encrypt and decrypt, whereas asymmetric uses two keys
 
 
 ## Case Study: Colonial Pipeline Ransomware

@@ -4,9 +4,8 @@ aliases: []
 tags: []
 ---
 
-Intellectual Property in Technology: The ownership of ideas and control over the tangible or virtual
-representation of those ideas. Use of another person's intellectual property may or may not involve
-royalty payments or permission, but should always include proper credit to the source.
+Intellectual Property in Technology:
+- The ownership of ideas and control over the tangible or virtual representation of those ideas. Use of another person's intellectual property may or may not involve royalty payments or permission, but should always include proper credit to the source.
 
 14$^{th}$C: Letters Patent
     - Issued by Monarch to establish some rights

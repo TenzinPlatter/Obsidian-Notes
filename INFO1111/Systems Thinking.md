@@ -4,8 +4,7 @@ aliases: []
 tags: []
 ---
 
-Broad Level: The connection between solutions, systems that implement them and the society they 
-operate within
+Broad Level: The connection between solutions, systems that implement them and the society they operate within
 
 More Focussed: Components of a system, their interactions and interrelationships can be analyzed
 individually to see how they influence the functioning of the whole system. 

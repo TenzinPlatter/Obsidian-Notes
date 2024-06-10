@@ -45,7 +45,7 @@ tags: []
 
 
 
-## Types of teamwork for IT professionals:^
+## Types of teamwork for IT professionals:
 ### Multidisciplinary:
 - Business
 - IT
